@@ -14,7 +14,7 @@
 
 # <p align="center"> TELEGRAM'S FASTEST USERBOT
 
-# <p align="center"> ☘️ [NAAN OBBA KANNADIGA](https://github.com/PROFESSOR_AGORA) ☘️
+# <p align="center"> ☘️ [ನಾನ್ ಒಬ್ಬ ಕನ್ನಡಿಗ](https://github.com/PROFESSOR_AGORA) ☘️
 
 # <p align="center"> ITS ALL CREDITS GOES TO AGORA PROFESSOR. 
 # <p align="center"> USERNAME = [AGORA PROFESSOR](https://github.com/AGORASWAMY_PROFESSOR)

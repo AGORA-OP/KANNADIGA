@@ -22,7 +22,7 @@
 
 # <p align="center"> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANTH-OP/AGORA-USERBOT)
 
-# <p align="center"> [![String](https://te.legra.ph/file/d8ba77811625796729b82.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
+# <p align="center"> [![String](https://te.legra.ph/file/6d7cd7781450e4468fefb.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
 # <p align="center"> [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/AGORA-PROFESSOR/AGORA-USERBOT#main.py) 
 
 # <p align="center"> ☘️ [ನಾನ್ ಒಬ್ಬ ಕನ್ನಡಿಗ](https://t.me/NAAN_1_KANNADIGA) ☘️

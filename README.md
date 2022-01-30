@@ -15,9 +15,9 @@
 # <p align="center"> USERNAME = [AGORA PROFESSOR](https://t.me/MR_PROFESSOR_AGORA)
 # <p align="center"> ⚡ [𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨](https://github.com/SHANTH-OP/AGORA-USERBOT) ⚡
 
-# <p align="center"> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHANTH-OP/AGORA-USERBOT)
+# <p align="center"> [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AGORA-OP/KANNADIGA)
 
-# <p align="center"> [![String](https://te.legra.ph/file/6d7cd7781450e4468fefb.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
+# <p align="center"> [![String](https://te.legra.ph/file/79f3e0986bbb2d219d133.jpg)](https://replit.com/SHANTH-OP/AGORA-USERBOT#main.py) 
 # <p align="center"> [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/AGORA-PROFESSOR/AGORA-USERBOT#main.py) 
 
 # <p align="center"> ☘️ [ನಾನ್ ಒಬ್ಬ ಕನ್ನಡಿಗ](https://t.me/NAAN_1_KANNADIGA) ☘️

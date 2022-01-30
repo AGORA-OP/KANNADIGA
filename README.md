@@ -2,7 +2,7 @@
 <b>ನಾನ್ ಒಬ್ಬ ಕನ್ನಡಿಗ</b>
 </h1>
 
-[![ಕನ್ನಡಿಗ ಯೂಸರ್ಬಾಟ್](https://te.legra.ph/file/d45d113c6f27b448038fd.jpg)](https://github.com/AGORA-OP/KANNADIGA)
+[![ಕನ್ನಡಿಗ ಯೂಸರ್ಬಾಟ್](https://te.legra.ph/file/599b350b8277f11767201.jpg)](https://github.com/AGORA-OP/KANNADIGA)
 
 <h6 align="center">
   <b>⭐̲ಟೆಲಿಥಾನ್ ಆಧಾರಿತ ಟೆಲಿಗ್ರಾಮ್ನ ಮೊದಲ ಕನ್ನಡ ಯೂಸರ್ಬಾಟ್ - ಮೆಡ್ ಬಾಯ್ PROFESSOR AGORA ⭐̲</b>

@@ -2,8 +2,9 @@
 # <p align="center">
   <img src="https://te.legra.ph/file/599b350b8277f11767201.jpg">
 </p> 
-# <p align="center">><b>⭐̲ ಟೆಲಿಥಾನ್ ಆಧಾರಿತ ಟೆಲಿಗ್ರಾಮ್ನ ಮೊದಲ ಕನ್ನಡ ಯೂಸರ್ಬಾಟ್ ⭐</b>
-# <p align="center"> <b>👨‍🏫 MADE BY PROFESSOR AGORA 👨‍🏫</b>  
+
+# <p align="center"> ⭐̲ ಟೆಲಿಥಾನ್ ಆಧಾರಿತ ಟೆಲಿಗ್ರಾಮ್ನ ಮೊದಲ ಕನ್ನಡ ಯೂಸರ್ಬಾಟ್ ⭐
+# <p align="center"> 👨‍🏫 MADE BY PROFESSOR AGORA 👨‍🏫
 # <p align="center"> {DEVELOPER} BY = [PROFESSOR AGORA](http://t.me/MR_PROFESSOR_AGORA)
 
 # <p align="center"> TELEGRAM'S FASTEST USERBOT

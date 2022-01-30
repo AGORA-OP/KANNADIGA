@@ -29,10 +29,3 @@
 
 # <p align="center"> 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 𝗚𝗢𝗘𝗦 𝗧𝗢 [𝗣𝗥𝗢-𝗕𝗢𝗬](https://t.me/legendbot_pros) 𝗔𝗡𝗗 [𝗞𝗔𝗩𝗬𝗔𝗦𝗛𝗔𝗔𝗡](t.me/AGORASWAMY_PROFESSOR) 𝗔𝗡𝗗 [𝗧𝗢𝗫𝗜𝗘𝗦𝗧](https://t.me/toxic_than_toxiest)
 
-# <p align="center"> LICENSE •[𝗟𝗜𝗖𝗘𝗡𝗦𝗘](https://github.com/AGORA-OP/KANNADIGA/blob/master/LICENSE)
-# <p align="center"> 💡 CREDITS 💞 •
-𝗚𝗢𝗥𝗔 ☘️](https://github.com/PROFESSOR-AGORA)
-𝗜𝗠𝗔𝗚𝗘](https://user-images.githubusercontent.com/87700009/133560871-e318f78b-16e7-4fe5-ad57-f1661b99f576.png)
-𝗜𝗠𝗔𝗚𝗘](https://user-images.githubusercontent.com/87700009/133560891-ca9899ed-d95c-4050-b50a-af67790020f5.png)
-[𝗜𝗠𝗔𝗚𝗘](https://user-images.githubusercontent.com/87700009/133560924-ac05edc1-43b8-4aa3-ab56-36661d5d5b5d.png)
-[𝗜𝗠𝗔𝗚𝗘](https://user-images.githubusercontent.com/87700009/133560910-6117ba9e-9165-4fd1-8fb2-4d1ecca3c20e.png)

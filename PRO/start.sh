@@ -15,7 +15,7 @@ echo """
 ┃╰━╯┃╰━╯┃╱┃┃
 ╰━━━┻━━━╯╱╰╯
 """
-rm -rf PRO-USERBOT
-git clone https://github.com/PROBOY-OP/PRO-USERBOT
-cd PRO-USERBOT
+rm -rf KANNADIGA
+git clone https://github.com/AGORA-OP/KANNADIGA
+cd KANNADIGA
 python3 -m userbot

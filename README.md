@@ -1,16 +1,16 @@
 <h1 align="center">
-<b> Přô Lêɠêɳ̃dẞø† </b>
+<b>ನಾನ್ ಒಬ್ಬ ಕನ್ನಡಿಗ</b>
 </h1>
 
-[![PRO-LEGENDBOT](https://telegra.ph/file/19ae4094f99bf6956c86f.jpg)](https://github.com/PROBOY-OP/PRO-LEGENDBOT)
+[![ಕನ್ನಡಿಗ ಯೂಸರ್ಬಾಟ್](https://te.legra.ph/file/d45d113c6f27b448038fd.jpg)](https://github.com/AGORA-OP/KANNADIGA)
 
 <h6 align="center">
-  <b>⭐̲ Pro LegendBot Is One Of The Unique & Fastest & Smoothest Bot On Telegram Based on Telethon ⭐̲</b>
+  <b>⭐̲ಟೆಲಿಥಾನ್ ಆಧಾರಿತ ಟೆಲಿಗ್ರಾಮ್ನ ಮೊದಲ ಕನ್ನಡ ಯೂಸರ್ಬಾಟ್ - ಮೆಡ್ ಬಾಯ್ PROFESSOR AGORA ⭐̲</b>
 </h6>
 
 ---------
 
-<h4> Deploy PŘÔ-Lêɠêɳ̃dẞø† </h4>
+<h4> 𝗗𝗘𝗣𝗟𝗢𝗬 ಕನ್ನಡಿಗ ಯೂಸರ್ಬಾಟ್ </h4>
 
 
 <a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
@@ -25,9 +25,9 @@
 
 -----------
 
-- <a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/PROBOY-OP/PRO-LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left">
+- <a href="https://github.com/AGORA-OP/KANNADIGA/network/members"><img src="https://img.shields.io/github/forks/AGORA-OP/KANNADIGA?label=Forks&logoColor=Black&style=social"></a><p align="left">
 
-- <a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/PROBOY-OP/PRO-LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT"></a><p align="left"><a href="https://github.com/PROBOY-OP/PRO-LEGENDBOT?"></a>
+- <a href="https://github.com/AGORA-OP/KANNADIGA/stargazers"><img src="https://img.shields.io/github/stars/AGORA-OP/KANNADIGA?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/AGORA-OP/KANNADIGA"></a><p align="left"><a href="https://github.com/AGORA-OP/KANNADIGA?"></a>
 
 -----------
 </details>
@@ -38,8 +38,8 @@
 
 ---------
 
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/LegendBot_Pros)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Pro_LegendBots)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/NAAN_1_KANNADIGA)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/KANNADIGA_USERBOT)
 
 -----------
 
@@ -66,7 +66,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/PROBOY-OP/PRO-USERBOT.git`
+`git clone https://github.com/AGORA-OP/KANNADIGA.git`
 - Open Cloned Folder.
 
 `cd PRO-USERBOT`

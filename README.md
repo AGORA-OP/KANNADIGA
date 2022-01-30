@@ -1,8 +1,6 @@
-# <p align="center">
-  <img src="https://te.legra.ph/file/286ebee514fc25d5d83c9.jpg">
-</p>
 
-<p align="center">
+
+# <p align="center">
   <img src="https://te.legra.ph/file/599b350b8277f11767201.jpg">
 </p>
 
